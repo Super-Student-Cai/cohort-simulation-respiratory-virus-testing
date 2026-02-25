@@ -1,0 +1,19 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Outputs
+outputs/
+figures/
+plots/
+tables/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Office temp
+~$*.docx
